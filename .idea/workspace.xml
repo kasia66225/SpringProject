@@ -6,7 +6,47 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d984e7c-ebdc-4fc8-9dfe-f74d73d3a6f7" name="Default" comment="" />
+    <list default="true" id="4d984e7c-ebdc-4fc8-9dfe-f74d73d3a6f7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-batch-core-2.2.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-batch-infrastructure-2.2.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kasia/controlller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kasia/util/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/packt/webstore/domain/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/packt/webstore/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/products.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kasia/controlller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kasia/util/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/packt/webstore/domain/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/packt/webstore/domain/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/classes/com/kasia/controlller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/classes/com/kasia/util/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/classes/com/packt/webstore/domain/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/classes/com/packt/webstore/domain/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/spring-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/products.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/swing-1.0-SNAPSHOT/test.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +64,7 @@
       <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kasia/controlller/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="193">
               <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -128,6 +168,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -168,6 +211,7 @@
     <option name="width" value="1279" />
     <option name="height" value="555" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -409,18 +453,18 @@
       <workItem from="1532855553358" duration="577000" />
       <workItem from="1532856185310" duration="38000" />
       <workItem from="1532856406210" duration="780000" />
-      <workItem from="1532858588495" duration="10368000" />
+      <workItem from="1532858588495" duration="11075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19148000" />
+    <option name="totallyTimeSpent" value="19855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="25" width="1303" height="743" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50038373" side_tool="true" visible="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003978" side_tool="true" weight="0.34262297" />
       <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32913387" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
@@ -437,12 +481,12 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49961627" weight="0.31653544" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3292402" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49961627" visible="true" weight="0.32913387" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494244" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49960223" visible="true" weight="0.32786885" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2585521" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -835,7 +879,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kasia/controlller/HomeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="193">
           <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
