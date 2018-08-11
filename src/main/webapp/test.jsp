@@ -1,3 +1,4 @@
+<%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
 <%--
   Created by IntelliJ IDEA.
   User: katarzyna
@@ -11,6 +12,9 @@
     <title>Title</title>
 </head>
 <body>
+
+
+<li><a href="/products" class="elements"><span>PRODUKTY</span></a></li>
 <h1>wstęp</h1>
 </body>
 </html>
