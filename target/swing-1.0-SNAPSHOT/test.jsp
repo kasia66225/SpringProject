@@ -24,33 +24,26 @@
         <h2 class="a">przygody z edukacją</h2>
     </div>
 </div>
-
 <div class="title">
     <p class="memories"> W 2015 roku ukończyłam Liceum Ogólnokształcące Imienia Tadeusza Kościuszki w Wieluniu. Jestem absolwentką profilu matematyczno-fizycznego. Aktualnie studiuję Informatykę na Wydziale Podstawowych Problemów Techniki. Jestem na czwartym semestrze.
     </p>
     <img src="img/me" alt="me" width="200" height="200"/>
-
 </div>
-
 <div id="education">
     <p class="leftcase">Moja edukacja</p>
-
-    <a href ="pierwszysemestr.html">
+    <a href="/first" class="elements">
+        <span class="glyphicon glyphicon-sort-by-alphabet"></span>
         <p class="link">1. Studia semestr I  (2016/2017)</p>
     </a>
-
-    <a href ="drugisemestr.html">
+    <a href ="/products">
         <p class="link">2. Studia semestr II  (2016/2017)</p>
     </a>
-
     <a href ="trzecisemestr.html">
         <p class="link">3. Studia semestr III (2017/2018)</p>
     </a>
 </div>
-
 <div id="hobby">
     <p class="rightcase">Moje hobby</p>
-
     <a href ="ksiazki.html">
         <p class="link">1. Książki</p>
     </a>
@@ -61,6 +54,7 @@
         <p class="link">3. Podróże</p>
     </a>
 </div>
+
 
 <a href="/products" class="elements">
     <span class="glyphicon glyphicon-sort-by-alphabet"></span>SORT VT
