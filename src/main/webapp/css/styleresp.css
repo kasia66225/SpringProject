@@ -1,0 +1,26 @@
+body{
+  width:auto;
+}
+
+.title img{
+  float:left; 
+  border-radius: 50%; 
+}
+
+#education{
+  clear:both;
+  margin-top:5em;
+
+}
+
+#hobby{
+  clear:both;
+  margin-top:5em;
+}
+
+h1.name{
+  letter-spacing: auto;
+  line-height: auto;
+  text-align: justify;
+
+}
